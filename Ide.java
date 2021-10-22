@@ -1,5 +1,5 @@
 /*package whatever //do not write package name here */
-
+// remove all zeros by 5
 import java.io.*;
 import java.util.Scanner;
 import java.lang.*;
